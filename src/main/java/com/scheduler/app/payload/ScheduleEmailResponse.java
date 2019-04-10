@@ -1,4 +1,4 @@
-package com.example.quartzdemo.payload;
+package com.scheduler.app.payload;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

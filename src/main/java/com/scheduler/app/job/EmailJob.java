@@ -1,4 +1,4 @@
-package com.example.quartzdemo.job;
+package com.scheduler.app.job;
 
 import java.nio.charset.StandardCharsets;
 

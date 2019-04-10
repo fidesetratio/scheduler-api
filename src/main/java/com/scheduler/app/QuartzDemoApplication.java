@@ -1,4 +1,4 @@
-package com.example.quartzdemo;
+package com.scheduler.app;
 
 
 import org.springframework.boot.SpringApplication;

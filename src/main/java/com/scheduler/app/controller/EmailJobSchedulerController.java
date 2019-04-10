@@ -1,8 +1,9 @@
-package com.example.quartzdemo.controller;
+package com.scheduler.app.controller;
 
-import com.example.quartzdemo.job.EmailJob;
-import com.example.quartzdemo.payload.ScheduleEmailRequest;
-import com.example.quartzdemo.payload.ScheduleEmailResponse;
+import com.scheduler.app.job.EmailJob;
+import com.scheduler.app.payload.ScheduleEmailRequest;
+import com.scheduler.app.payload.ScheduleEmailResponse;
+
 import org.quartz.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

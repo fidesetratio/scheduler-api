@@ -1,4 +1,4 @@
-package com.example.quartzdemo.payload;
+package com.scheduler.app.payload;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
